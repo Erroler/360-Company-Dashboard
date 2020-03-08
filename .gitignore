@@ -1,0 +1,14 @@
+/node_modules
+/public/hot
+/public/storage
+/public/images
+/storage/*.key
+/vendor
+#.env Wowowowowow this ain't good practice so keep this to yourself and don't tell anyone.
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.idea
