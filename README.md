@@ -81,7 +81,7 @@ Requirements
 
 ### Developed by
 * Ana Sá Silva (up201604105@fe.up.pt)
-* Fábio Oliveira (up201604796@fe.up.pt)
+* Fábio Oliveira (up201604796@fe.up.pt) 🠈 Me
 * Hugo Fernandes (up201909576@fe.up.pt)
 * Pedro Pinho (up201605166@fe.up.pt)
 * Ricardo Moura (up201604912@fe.up.pt)
