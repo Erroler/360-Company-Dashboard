@@ -30,8 +30,8 @@
 ## Setup
 
 #### Requirements
-> * PHP 7.1+
-> * Composer
+* PHP 7.1+
+* Composer
 
 #### Steps
 > #### 1. Install dependencies.
@@ -62,12 +62,12 @@
 > php artisan migrate:refresh --seed
 > ```
 > 
-> ### 4. Start development server.
+> #### 5. Start development server.
 > ```
 > php artisan serve
 > ```
-> #### 5. Access project at localhost:8000
-> #### 6. Login with the following credentials:
+> #### 6. Access project at localhost:8000
+> #### 7. Login with the following credentials:
 > ```
 > User: admin@admin.com
 > Password: admin
