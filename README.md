@@ -7,6 +7,8 @@
  This project was developed as a course assignment of the [Information Systems subject](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436456) at [Faculdade de Engenharia da Universidade do Porto](https://sigarra.up.pt/feup/en).
  
  For a complete list of features see the [project report](https://github.com/Erroler/360-Company-Dashboard/blob/master/report.pdf).
+ 
+ *Project finished on December 2019.*
 
 ## Screenshots
 
