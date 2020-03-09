@@ -29,16 +29,17 @@
 
 ## Setup
 
-Requirements
+#### Requirements
 > * PHP 7.1+
 > * Composer
 
-> ### 1. Install dependencies.
+#### Steps
+> #### 1. Install dependencies.
 > ``` 
 > composer install
 > ```
 > 
-> ### 2. Rename .env.example to .env and fill the following fields:
+> #### 2. Rename .env.example to .env and fill the following fields:
 > ```
 > # Database related
 > DB_CONNECTION=
@@ -51,12 +52,12 @@ Requirements
 > JASMIN_APPLICATION_SECRET=
 > ```
 > 
-> ### 3. Generate a new Laravel app key.
+> #### 3. Generate a new Laravel app key.
 > ```
 > php artisan key:generate
 > ```
 > 
-> ### 4. Run database migrations and seed tables.
+> #### 4. Run database migrations and seed tables.
 > ```
 > php artisan migrate:refresh --seed
 > ```
@@ -65,8 +66,8 @@ Requirements
 > ```
 > php artisan serve
 > ```
-> ### 5. Access project at localhost:8000
-> ### 6. Login with the following credentials:
+> #### 5. Access project at localhost:8000
+> #### 6. Login with the following credentials:
 > ```
 > User: admin@admin.com
 > Password: admin
