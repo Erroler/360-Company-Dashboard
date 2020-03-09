@@ -1,12 +1,12 @@
 ![logo](https://i.imgur.com/SUGbX1s.png)
 
-> **This is a web app aimed to provide a complete overview of the company status**, regarding the information that is contained on the [SAF-T](https://en.wikipedia.org/wiki/SAF-T) file (standard audit file for tax purposes) and information regarding sales orders, purchases, inventory, and accounts payable, using a dashboard to provide high level/graphical information with drill down functionalities to products/ supplier/ purchases. 
-> 
-> Integrates with the [Jasmin accounting software](https://www.jasminsoftware.pt/).
-> 
-> This project was developed as a course assignment of the [Information Systems subject](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436456) at [Faculdade de Engenharia da Universidade do Porto](https://sigarra.up.pt/feup/en).
-> 
-> For a complete list of features see the [project report](https://github.com/Erroler/360-Company-Dashboard/blob/master/report.pdf).
+ **This is a web app aimed to provide a complete overview of the company status**, regarding the information that is contained on the [SAF-T](https://en.wikipedia.org/wiki/SAF-T) file (standard audit file for tax purposes) and information regarding sales orders, purchases, inventory, and accounts payable, using a dashboard to provide high level/graphical information with drill down functionalities to products/ supplier/ purchases. 
+ 
+ Integrates with the [Jasmin accounting software](https://www.jasminsoftware.pt/).
+ 
+ This project was developed as a course assignment of the [Information Systems subject](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436456) at [Faculdade de Engenharia da Universidade do Porto](https://sigarra.up.pt/feup/en).
+ 
+ For a complete list of features see the [project report](https://github.com/Erroler/360-Company-Dashboard/blob/master/report.pdf).
 
 ## Screenshots
 
